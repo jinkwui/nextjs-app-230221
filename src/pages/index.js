@@ -15,7 +15,7 @@ export default function Home() {
       </ol>
       <article>
         <h2>Welcome</h2>
-        Hello, WEB2 가라미 메롱
+        Hello, WEB2 가라미 메롱 서은아 사랑해
       </article>
       <ul>
         <li>
